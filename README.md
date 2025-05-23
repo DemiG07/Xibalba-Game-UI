@@ -33,20 +33,7 @@ The design draws inspiration from:
 
 See `docs/inspiration.md` for more details.
 
-## Usage
-
-To use this UI design in your project:
-1. Clone the repository: `git clone https://github.com/[YourUsername]/Xibalba-Game-UI.git`
-2. Access the assets in the `assets/` directory.
-3. Use the `src/` directory to integrate the UI into your game (HTML/CSS/JS provided for demo purposes).
-
-For detailed instructions, see `docs/usage.md`.
-
 ## Credits
 
 - Character PNGs sourced from Clean PNG
 - In-game images inspired by *Elden Ring*
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
